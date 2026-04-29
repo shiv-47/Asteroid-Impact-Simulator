@@ -1,4 +1,4 @@
-![Mission Trajectory](saturn_to_moon_3d.png.png)
+![Mission Trajectory](saturn_to_moon_3d.png)
 # Asteroid-Impact-Simulator
 A 3D Python simulation of a 356mph asteroid trajectory from Saturn to the Moon over 28 days.
 This project was developed with the assistance of AI to help structure the Python classes and generate the 3D coordinate logic. As the Project Lead, I:
